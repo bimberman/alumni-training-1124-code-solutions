@@ -11,7 +11,7 @@ function convertMinutesToSeconds(minutes) {
  * @returns {string} The greeting
  */
 function greet(name) {
-  return 'Hello' + name + '!';
+  return 'Hello ' + name + '!';
 }
 /**
  * @param {number} width - the width of the rectangle

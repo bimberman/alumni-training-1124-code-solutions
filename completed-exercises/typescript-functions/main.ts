@@ -11,7 +11,7 @@ function convertMinutesToSeconds(minutes: number): number {
  * @returns {string} The greeting
  */
 function greet(name: string): string {
-  return 'Hello' + name + '!';
+  return 'Hello ' + name + '!';
 }
 
 /**
